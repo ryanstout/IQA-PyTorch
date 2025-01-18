@@ -23,5 +23,5 @@ timm>=0.8
 torch>=1.12
 torchvision>=0.13
 tqdm
-transformers==4.37.2
+transformers
 yapf
