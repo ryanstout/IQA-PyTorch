@@ -1,7 +1,6 @@
 accelerate
 addict
 einops
-facexlib
 future
 icecream
 lmdb
