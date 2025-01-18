@@ -1,6 +1,5 @@
 accelerate
 addict
-bitsandbytes
 einops
 facexlib
 future
